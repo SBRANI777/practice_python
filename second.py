@@ -5,6 +5,6 @@ for i in range(2,n):
     if n%i==0:
        Flag=True
 if Flag:
-   print("not a prime number")
+   print("this is not a prime number")
 else:
-    print("prime number")
+    print("this is prime number")
